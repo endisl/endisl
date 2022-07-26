@@ -2,6 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endisl&layout=compact&langs_count=10)](https://github.com/endisl/github-readme-stats)
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/endi-l-b3361399)  
 ![](https://komarev.com/ghpvc/?username=endisl)
 
 <!--
